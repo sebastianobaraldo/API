@@ -1,0 +1,8 @@
+#email-list ul {
+    list-style-type: none;
+    padding: 0;
+    }
+    
+    #email-list li {
+    margin-bottom: 10px;
+    }
